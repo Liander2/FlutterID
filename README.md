@@ -19,8 +19,7 @@ In the pubspec.yaml file the assets section was enabled allowing an image inside
 A few resources to get you started if this is your first Flutter project:
 
 - [Emoji Site](https://getemoji.com/)
-- Example how to make a textstring with a emoji
-- SizedBox(height: 15.0),
+- Example how to make a Sizedbox with textstring and a emoji * SizedBox(height: 15.0),
                 Text('Phn ☎️',
                     style: TextStyle(
                       color: Colors.black,
