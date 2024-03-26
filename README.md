@@ -16,12 +16,15 @@ There are also emojis in the code that was inserted by copying a emoji from the 
 In the pubspec.yaml file the assets section was enabled allowing an image inside the assets folder to be showcased in the CircleAvatar.
 
 
-This project is a starting point for a Flutter application.
-
 A few resources to get you started if this is your first Flutter project:
 
 - [Emoji Site](https://getemoji.com/)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Example how to make a textstring with a emoji [SizedBox(height: 15.0),
+                Text('Phn ☎️',
+                    style: TextStyle(
+                      color: Colors.black,
+                      letterSpacing: 2.0,
+                    )),]
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
