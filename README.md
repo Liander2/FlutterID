@@ -1,8 +1,12 @@
 # flutterstuff
 
-A new Flutter project.
+A Information page made using Flutter showing a Username, Title, phonenumber and Email along with a profile picture.
+In this project i have made use of Columns, Widgets, Divider and Sizedbox with text. 
+Using columns the page has its contents in a vertical format.
+Through SizedBox the textformat and style can be altered.
+There are also emojis in the code that was inserted by copying a emoji from the internet directly into the text string.
+In the pubspec.yaml file the assets section was enabled allowing an image inside the assets folder to be showcased in the CircleAvatar.
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
