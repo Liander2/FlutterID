@@ -6,7 +6,7 @@ Using columns the page has its contents in a vertical format.
 Through SizedBox the textformat and style can be altered.
 There are also emojis in the code that was inserted by copying a emoji from the internet directly into the text string.
 In the pubspec.yaml file the assets section was enabled allowing an image inside the assets folder to be showcased in the CircleAvatar.
-
+* test
 
 This project is a starting point for a Flutter application.
 
