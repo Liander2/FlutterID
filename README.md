@@ -31,6 +31,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+![Infopage](https://github.com/Liander2/FlutterID/assets/150666994/b6ef8c29-e39d-4e2a-bb56-889e2c31b3f3)
 
 
-![Screenshot_1711449227](https://github.com/Liander2/FlutterID/assets/150666994/6f0c98e7-4d37-4454-afcc-e6017dc8a67b)
+
