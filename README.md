@@ -2,14 +2,14 @@
 
 A Information page made using Flutter showing a Username, Title, phonenumber and Email along with a profile picture.
 In this project i have made use of different kinds of Widgets here is a list of them.
-*Scaffold
-*Appar
-*Padding
-*Textwidgets
-*Divider
-*Column
-*Sizedbox
-*Center
+* Scaffold
+* Appar
+* Padding
+* Textwidgets
+* Divider
+* Column
+* Sizedbox
+* Center
 Using columns the page has its contents in a vertical format.
 Through SizedBox the textformat and style can be altered.
 There are also emojis in the code that was inserted by copying a emoji from the internet directly into the text string.
