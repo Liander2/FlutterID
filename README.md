@@ -1,4 +1,4 @@
-# flutterstuff
+# Flutter ID 
 
 A Information page made using Flutter showing a Username, Title, phonenumber and Email along with a profile picture.
 In this project i have made use of different kinds of Widgets here is a list of them.
